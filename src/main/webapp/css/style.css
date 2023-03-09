@@ -1,0 +1,18 @@
+body {
+	margin: 0 auto;
+	width: 1080px;
+}
+.header_wrapper h1,
+h2 {
+	display: block;
+	text-align: center;
+	margin: 0;
+}
+.form_wrapper {
+	margin: auto;
+}
+
+.form {
+	text-align: center;
+	margin: 5px auto;
+}
